@@ -48,8 +48,6 @@ const CreatePrompt = () => {
         submitting = {submitting}
         handleSubmit = {createPrompt}
     />
-
-    
   )
 }
 
